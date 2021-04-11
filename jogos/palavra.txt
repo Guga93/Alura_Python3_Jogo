@@ -1,0 +1,4 @@
+celular
+hospital
+amante
+morango
